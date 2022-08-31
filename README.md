@@ -1,6 +1,6 @@
 ### Bem vindo ao meu repósitorio🧙🖥️
 -Códificar para simplificar.
--Windows\WSL❤️
+-Windows\WSL
 -01-06-2002
 ### Contatos:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liedsonrocha_/)
@@ -18,5 +18,4 @@
 <div style="display: in_line_block">
     <img aling="cente" alt="python" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
   <img aling="cente" alt="gimp" src="https://img.shields.io/badge/gimp-5C5543?style=for-the-badge&logo=gimp&logoColor=white"/>
-  <img aling="cente" alt="Unity" src="https://img.shields.io/badge/Made%20with-Unity-57b9d3.svg?style=flat&logo=unity&logoColor=white"/>
 </div>
