@@ -1,6 +1,6 @@
 👨‍💻Python🐍
-🤖-Back-End:
-🤖-Automação Web:
+<p>🤖-Back-End:
+<p>🤖-Automação Web:
 🤖-Machine Learning:
 🤖-Programador Desktop:
 𝙿𝚛𝚘𝚐𝚛(𝚊𝚖𝚊𝚍𝚘𝚛) 𝚍𝚎𝚜𝚍𝚎 𝟸𝟶𝟷𝟼.
