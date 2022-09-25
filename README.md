@@ -1,11 +1,13 @@
-👨‍💻Python🐍
+👨‍💻Python
 <p>🤖-Back-End:
 <p>🤖-Automação Web:
 <p>🤖-Machine Learning:
 <p>🤖-Programador Desktop:
 𝙿𝚛𝚘𝚐𝚛(𝚊𝚖𝚊𝚍𝚘𝚛) 𝚍𝚎𝚜𝚍𝚎 𝟸𝟶𝟷𝟼.
 <p>
-### Contatos:<b>
+  
+### Contatos:
+  
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liedsonrocha_/)
 
 ![Gorpu Stats](https://github-readme-stats.vercel.app/api?username=gorpu&show_icons=true&theme=highcontrast)
