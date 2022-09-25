@@ -1,5 +1,8 @@
-𝙳𝚎𝚜𝚔𝚝𝚘𝚙 𝚎 𝙵𝚛𝚘𝚗𝚝-𝚎𝚗𝚍:👾
-
+👨‍💻Python🐍
+🤖-Back-End:
+🤖-Automação Web:
+🤖-Machine Learning:
+🤖-Programador Desktop:
 𝙿𝚛𝚘𝚐𝚛(𝚊𝚖𝚊𝚍𝚘𝚛) 𝚍𝚎𝚜𝚍𝚎 𝟸𝟶𝟷𝟼.
 ### Contatos:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liedsonrocha_/)
