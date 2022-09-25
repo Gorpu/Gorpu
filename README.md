@@ -1,9 +1,10 @@
 👨‍💻Python🐍
 <p>🤖-Back-End:
 <p>🤖-Automação Web:
-🤖-Machine Learning:
-🤖-Programador Desktop:
+<p>🤖-Machine Learning:
+<p>🤖-Programador Desktop:
 𝙿𝚛𝚘𝚐𝚛(𝚊𝚖𝚊𝚍𝚘𝚛) 𝚍𝚎𝚜𝚍𝚎 𝟸𝟶𝟷𝟼.
+<p>
 ### Contatos:
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liedsonrocha_/)
 
