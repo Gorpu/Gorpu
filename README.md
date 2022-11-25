@@ -1,7 +1,6 @@
 <div style="display: in_line_block">
 <img aling="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
 </div>
-Python
 <p>🤖-Back-End:
 <p>🤖-Automação Web:
 <p>🤖-Machine Learning:
