@@ -1,5 +1,12 @@
 <div style="display: in_line_block">
+### Skils:
+### Linguagens:
 <img aling="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+<img aling="cente" alt="python" src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+### Data Base:
+<img aling="cente" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img aling="cente" alt="mariadb" src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/>
+<img aling="cente" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
 <p>🤖-Back-End:
 <p>🤖-Automação Web:
@@ -23,3 +30,4 @@
   <img aling="cente" alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
   <img aling="cente" alt="replit" src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white"/>
 </div>
+
