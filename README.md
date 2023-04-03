@@ -20,5 +20,5 @@
 ### IDE's:
 <div style="display: in_line_block">
   <img aling="cente" alt="python" src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white"/>
-  <https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white/>
+  <img aling="cente" alt="replit" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white"/>
 </div>
