@@ -1,3 +1,6 @@
+### Atividade:
+![Gorpu Stats](https://github-readme-stats.vercel.app/api?username=gorpu&show_icons=true&theme=highcontrast)
+
 ### Linguagens e Skills:
 <div style="display: in_line_block">
 <img aling="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
@@ -16,9 +19,6 @@
 ### Contatos:
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liedsonrocha_/)
-### Atividade:
-![Gorpu Stats](https://github-readme-stats.vercel.app/api?username=gorpu&show_icons=true&theme=highcontrast)
-
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorpu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
