@@ -4,13 +4,12 @@
 ### Linguagens e Skills:
 <div style="display: in_line_block">
 <img aling="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img aling="cente" alt="mysql" src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
 <img aling="cente" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
+### Programador Desktop Python:
 <p>🤖-Back-End:
 <p>🤖-Automação Web:
 <p>🤖-Machine Learning:
-<p>🤖-Programador Desktop:
 <p>𝙿𝚛𝚘𝚐𝚛(𝚊𝚖𝚊𝚍𝚘𝚛) 𝚍𝚎𝚜𝚍𝚎 𝟸𝟶𝟷𝟼.
 <p>
   
