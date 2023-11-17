@@ -6,7 +6,8 @@
 <img aling="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img aling="cente" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </div>
-### Programador Desktop Python:
+
+Programador Desktop Python:
 <p>🤖-Back-End:
 <p>🤖-Automação Web:
 <p>🤖-Machine Learning:
