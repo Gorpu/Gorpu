@@ -1,14 +1,8 @@
 ### Atividade:
 ![Gorpu Stats](https://github-readme-stats.vercel.app/api?username=gorpu&show_icons=true&theme=highcontrast)
 
-### Linguagens e Skills:
-<div style="display: in_line_block">
-<img aling="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-<img aling="cente" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
-</div>
-
 Programador Desktop Python:
-<p>🖼️-Criação de inverfaces gráficas (Tkinter GUIs):
+<p>🖼️-Criação de inverfaces gráficas (Tkinter GUIs)<img aling="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>:
 <p>🤖-Web Scraping:
   
 ### Contatos:
