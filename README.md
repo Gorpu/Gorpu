@@ -1,9 +1,10 @@
 ### Atividade:
 ![Gorpu Stats](https://github-readme-stats.vercel.app/api?username=gorpu&show_icons=true&theme=highcontrast)
 
-<img aling="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>:
-<p>🖼️-Criação de inverfaces gráficas (Tkinter GUIs)
-<p>🤖-Web Scraping:
+/**<img aling="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  *<p>🖼️-Criação de inverfaces gráficas (Tkinter GUIs)
+  *<p>🤖-Web Scraping:
+  */
   
 ### Contatos:
   
