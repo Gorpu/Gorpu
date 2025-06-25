@@ -8,8 +8,8 @@
 </div>
 
 Programador Desktop Python:
+<p>🖼️-Criação de inverfaces gráficas (Tkinter GUIs):
 <p>🤖-Web Scraping:
-<p>🤖-Automação Web:
   
 ### Contatos:
   
