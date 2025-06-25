@@ -8,11 +8,8 @@
 </div>
 
 Programador Desktop Python:
-<p>🤖-Back-End:
+<p>🤖-Web Scraping:
 <p>🤖-Automação Web:
-<p>🤖-Machine Learning:
-<p>𝙿𝚛𝚘𝚐𝚛(𝚊𝚖𝚊𝚍𝚘𝚛) 𝚍𝚎𝚜𝚍𝚎 𝟸𝟶𝟷𝟼.
-<p>
   
 ### Contatos:
   
