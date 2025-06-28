@@ -4,12 +4,12 @@
 ##XP<br>
 <img aling="cente" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/><br>
   <p>🖼️-Criação de inverfaces gráficas (Tkinter GUIs)
-  <p>🤖-Web Scraping:<br>
+  <p>🤖-Web Scraping:<br><br>
 ### Contatos:
   
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/liedsonrocha_/)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorpu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorpu&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)<br><br>
 
 ### IDE's And Terminal Emulators:
 <div style="display: in_line_block">
