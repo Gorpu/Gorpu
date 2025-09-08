@@ -1,6 +1,6 @@
 
 ---
-💻 Analista Programador **FullStack** | 🚀 Automação | 🎨 Interfaces Gráficas  
+💻 Analista Programador **FullStack**
 
 ---
 
