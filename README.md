@@ -6,8 +6,7 @@
 
 ## 📊 Estatísticas do GitHub  
 
-![Gorpu Stats](https://github-readme-stats.vercel.app/api?username=gorpu&show_icons=true&theme=highcontrast)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gorpu&langs_count=8&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)  
+![Gorpu Stats](https://github-readme-stats.vercel.app/api?username=gorpu&show_icons=true&theme=highcontrast)
 [![GitHub Streak](https://streak-stats.demolab.com?user=gorpu&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ---
