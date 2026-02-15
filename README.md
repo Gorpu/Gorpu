@@ -1,16 +1,7 @@
 
 ---
 💻 Analista Programador **FullStack**
-
 ---
-
-## 📊 Estatísticas do GitHub  
-
-![Gorpu Stats](https://github-readme-stats.vercel.app/api?username=gorpu&show_icons=true&theme=highcontrast)
-[![GitHub Streak](https://streak-stats.demolab.com?user=gorpu&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
-
----
-
 ## ⚡ Sobre mim  
 
 - 🔥 Desenvolvedor focado em **Python**  
@@ -22,6 +13,10 @@
 - 🖥️ **Automação Comercial Desktop** com **Tkinter**  
 - 🤖 **Web Scraping e Automação Web** com **Selenium**  
 - 🎯 Sempre em busca de aprender e compartilhar conhecimento  
+
+---
+## 📊 Estatísticas do GitHub  
+[![GitHub Streak](https://streak-stats.demolab.com?user=gorpu&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
 
 ---
 
